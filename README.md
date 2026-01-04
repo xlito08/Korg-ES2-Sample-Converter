@@ -23,9 +23,7 @@ A browser-based tool to convert WAV or MP3 audio files into a
 ---
 
 ## 🚀 Live Demo
-
-👉 **GitHub Pages**
-****************************************************************************
+👉 https://korg-es-2-sample-converter-5b7vifutk-xlitos-projects.vercel.app/
 
 ---
 
